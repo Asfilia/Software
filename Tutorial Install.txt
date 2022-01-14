@@ -1,0 +1,19 @@
+Aplikasi download di BAGAS31
+
+Password: www.bagas31.info | Status: Tested (Windows 10 – 64bit)
+
+Windows VL editions: Vista, 7, 8, 8.1, 10, Server 2008, 2008 R2, 2012, 2012 R2, 2016, 2019, Office 2010, 2013, 2016, 2019
+
+Cara Install:
+
+1. Matikan Antivirus.
+2. Download file melalui link di atas.
+3. Ekstrak file yang sudah sobat download.
+4. Jalankan program dengan Run as Administrator.
+5. Pilih jenis produk yang ingin diaktivasi.
+6. Klik Install key. Kemudian klik Activate.
+7. Tunggu proses hingga Activated.
+8. Nyalakan antivirus kembali.
+9. Selesai. Enjoy!
+
+Semoga bermanfaat.
